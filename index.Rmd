@@ -1,7 +1,7 @@
 ---
 title       : Developing Data Products Course Project
 subtitle    : Prediction of Subject Reaction Time Based on
-              Linear Analysis of Sleep Depravation Data
+              Linear Analysis of Sleep Deprivation Data
 author      : Gilbert Maerina
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
